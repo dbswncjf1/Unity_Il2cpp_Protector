@@ -1,0 +1,6 @@
+{
+  "name": "AegisGuard.Runtime",
+  "rootNamespace": "AegisGuard",
+  "references": [],
+  "autoReferenced": true
+}

@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "nativeMetadataProtection": true,
+  "assemblies": ["Assembly-CSharp"],
+  "embeddedResources": [],
+  "bundles": [
+    { "id": "characters", "assets": ["Assets/Protected/Hero.prefab"], "addresses": ["hero"] }
+  ],
+  "dataFiles": [
+    { "id": "balance", "source": "GuardSource/balance.json" }
+  ],
+  "windowsOutput": "Builds/AegisWindows/Game.exe",
+  "androidOutput": "Builds/AegisAndroid/Game.apk"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "AegisGuard.Editor",
+  "rootNamespace": "AegisGuard.Editor",
+  "references": ["AegisGuard.Runtime"],
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": ["Mono.Cecil.dll"],
+  "autoReferenced": true
+}

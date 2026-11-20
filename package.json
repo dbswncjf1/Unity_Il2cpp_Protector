@@ -1,0 +1,10 @@
+{
+  "name": "com.yun.aegisguard",
+  "version": "0.3.0",
+  "displayName": "AegisGuard",
+  "description": "Opt-in build-time method and literal protection, authenticated chunk containers and bounded plaintext resource loading.",
+  "unity": "6000.3",
+  "unityRelease": "13f1",
+  "dependencies": { "com.unity.nuget.mono-cecil": "1.11.6" },
+  "samples": [{ "displayName": "Basic integration", "description": "Opt-in annotations and resource loading", "path": "Samples~/Basic" }]
+}
